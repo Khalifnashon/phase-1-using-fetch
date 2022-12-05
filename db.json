@@ -1,0 +1,24 @@
+{
+  "animalData": [
+    {
+      "id": 1,
+      "name": "Pangoline",
+      "description": "the pangoline",
+      "donations": 0
+    },
+  
+    {
+      "id": 2,
+      "name": "Mantis Shrimp",
+      "description": "The mantris shrimp has a powerful punch",
+      "donations":0
+    },
+
+    {
+      "id": 3,
+      "name": "Gibbone",
+      "description": "Gibbons communicate by singing",
+      "donations":0
+    }
+  ]
+}
